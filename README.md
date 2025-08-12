@@ -11,7 +11,7 @@
 
 
 ## 🧠 Sobre mim
-- 📚 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- 📚 Cursando **Técnico em Desenvolvimento de Sistemas**
 - ⚡ Curiosidades: amo **esportes**, **videogames** e boas vibrações ✨
 - 📩 Contato: **thimasseto@outlook.com**
 
