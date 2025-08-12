@@ -37,7 +37,7 @@
 
 
 - 🏀 Pratico esportes sempre que posso
-- 🎮 Viciado em games (sim, até madrugar 😅)
+- 🎮 Apaixonado em games
 - 🌱 Sempre aprendendo algo novo
 - 😄 Energia positiva sempre
 
