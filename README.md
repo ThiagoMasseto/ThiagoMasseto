@@ -1,6 +1,6 @@
 <!-- Banner ou GIF no topo -->
 
-<img style="margin-top: 40px;" align="right" width="400px" src="[https://i.imgur.com/8MupZHY.gif](https://www.valinor.com.br/forum/proxy.php?image=http%3A%2F%2Fi0.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F012%2F982%2Fpost-19715-Brent-Rambo-gif-thumbs-up-imgu-L3yP.gif&hash=5ce336e49ea2c59615e37bc726401308)" width="100%">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://media.giphy.com/media/26xBukhML6H5R8bD6/giphy.gif" width="100%">
 
 # 👋 Olá, eu sou o Thiago de Almeida Masseto
 
