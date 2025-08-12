@@ -2,7 +2,7 @@
 
 <img style="margin-top: 40px;" align="right" width="400px" src="https://i1.kym-cdn.com/photos/images/original/000/538/716/7f5.gif">
 
- 👋 Olá, eu sou o Thiago de Almeida Masseto
+ # Olá, eu sou o Thiago de Almeida Masseto
 
 💻 **Estudante de Desenvolvimento de Sistemas**  
 🚀 Apaixonado por **Python**, **Inteligência Artificial**, **Dados** e **Desenvolvimento Web**  
