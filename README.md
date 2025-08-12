@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- Banner ou GIF no topo -->
+<img align="center" src="https://i.imgur.com/8MupZHY.gif" width="100%" />
 
-<!--
-**ThiagoMasseto/ThiagoMasseto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou o Thiago de Almeida Masseto
 
-Here are some ideas to get you started:
+💻 **Estudante de Desenvolvimento de Sistemas**  
+🚀 Apaixonado por **Python**, **Inteligência Artificial**, **Dados** e **Desenvolvimento Web**  
+🎯 Sempre em busca de aprender, criar e evoluir  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre mim
+- 📚 Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
+- ⚡ Curiosidades: amo **esportes**, **videogames** e boas vibrações ✨
+- 📩 Contato: **thimasseto@outlook.com**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ThiMasseto&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiMasseto&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+## 🎮 Um pouco de mim fora do código
+<img align="right" src="https://media.giphy.com/media/26xBukhML6H5R8bD6/giphy.gif" width="200" />
+
+- 🏀 Pratico esportes sempre que posso
+- 🎮 Viciado em games (sim, até madrugar 😅)
+- 🌱 Sempre aprendendo algo novo
+- 😄 Energia positiva sempre
+
+---
+
+## 🚀 Em breve...
+Projetos legais e criativos estão a caminho, fique de olho! 👀
+
+---
+
+<!-- Footer animado -->
+<img align="center" src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
