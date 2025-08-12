@@ -34,7 +34,8 @@
 ---
 
 ## 🎮 Um pouco de mim fora do código
-<img align="right" src="https://media.giphy.com/media/26xBukhML6H5R8bD6/giphy.gif" width="200" />
+<img align="right" src="[https://media.giphy.com/media/26xBukhML6H5R8bD6/giphy.gif" width="200](https://i1.kym-cdn.com/photos/images/original/000/538/716/7f5.gif)" />
+<img align="right" src="" width="200" />
 
 - 🏀 Pratico esportes sempre que posso
 - 🎮 Viciado em games (sim, até madrugar 😅)
