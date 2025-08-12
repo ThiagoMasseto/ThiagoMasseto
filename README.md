@@ -1,6 +1,6 @@
 <!-- Banner ou GIF no topo -->
 
-<img style="margin-top: 40px;" align="right" width="400px" src=""https://i.imgur.com/8MupZHY.gif" width="100%">
+<img style="margin-top: 40px;" align="right" width="400px" src="https://i.imgur.com/8MupZHY.gif" width="100%">
 
 # 👋 Olá, eu sou o Thiago de Almeida Masseto
 
